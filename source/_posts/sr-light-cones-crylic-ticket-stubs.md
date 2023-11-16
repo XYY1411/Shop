@@ -12,9 +12,9 @@ tags:
 
 在售：
 - [与行星相会](/2023/11/planetary-rendezvous-6x18/)
-- 只需等待
-- 她已闭上双眼
-- 比阳光更明亮的
+- [只需等待](/2023/11/patience-is-all-you-need-6x18)
+- [她已闭上双眼](/2023/11/brighter-than-the-sun-6x18)
+- [比阳光更明亮的](/2023/11/brighter-than-the-sun-6x18)
 - 拂晓之前
 - 猎物的视线
 - 于夜色中
