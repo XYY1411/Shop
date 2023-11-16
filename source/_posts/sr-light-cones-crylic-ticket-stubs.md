@@ -11,7 +11,7 @@ tags:
 ![与行星相会](planetary-rendezvous-6x18.png)
 
 在售：
-- 与行星相会
+- [与行星相会](/2023/11/planetary-rendezvous-6x18/)
 - 只需等待
 - 她已闭上双眼
 - 比阳光更明亮的
